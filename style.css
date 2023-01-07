@@ -1,0 +1,20 @@
+* {
+  font-family: Rowdies, sans-serif;
+}
+
+body {
+  background-color: #ab3131;
+}
+
+#title {
+  font-size: 100px;
+  color: #00ffcc;
+  text-align: left;
+  background-image: linear-gradient(to top, #3257ab, #ab3131)
+}
+
+#wish {
+  color: #def87d;
+  border-bottom: 2px solid black;
+  display: inline;
+}
